@@ -24,7 +24,7 @@ energy seams as needed 5. It returns the image transformed.
 
 ------------
 
-###Huffman Algorithm
+### Huffman Algorithm
 
 The Huffman algorithm used to compress data is based on
 binary trees. Mostly used to compress files where the
@@ -36,4 +36,6 @@ Main steps:
 1.Create a Huffman tree based on the read file. 2. Go
 through the tree and assign the corresponding codes. 3.
 Save the symbol and its code in a table.
+
+
 [![Huffman tree](https://cgi.luddy.indiana.edu/~yye/c343-2019/images/Huffman-tree-Fig5.24.png "Huffman tree")](https://cgi.luddy.indiana.edu/~yye/c343-2019/images/Huffman-tree-Fig5.24.png "Huffman tree")
