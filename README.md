@@ -18,6 +18,9 @@ energy seams as needed 5. It returns the image transformed.
 
 [![seam_carving](https://github.com/vivianhylee/seam-carving/raw/master/example/image05_video.gif "seam_carving")](https://github.com/vivianhylee/seam-carving/raw/master/example/image05_video.gif "seam_carving")
 
+[![1](https://github.com/Andres-Alvarez-V/IMAGE_COMPRESSION_ALGORITHMS/blob/main/proyecto/codigo/ejemplos/sm.png?raw=true "1")](https://github.com/Andres-Alvarez-V/IMAGE_COMPRESSION_ALGORITHMS/blob/main/proyecto/codigo/ejemplos/sm.png?raw=true "1")
+
+
 
 ------------
 
